@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Vidara1890
-- 👀 I’m interested in data science Gem AI
-- 🌱 I’m currently learning Gen AI
-- 💞️ I’m looking to collaborate on  projects 
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I'm Dr. S. R. Srividhya (Vidhya) 👋
 
-<!---
-Vidara1890/Vidara1890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior IT Application Developer, Solutions & Digital Delivery @ KBR | PhD in Deep Learning | ~8 years in AI/ML
+
+- 🔬 My work spans end-to-end Generative AI project lifecycles — RAG pipelines, document intelligence, LLM integration, and cloud deployment (AWS)
+- 🚀 Delivered enterprise AI solutions including document intelligence platforms, computer vision-based processing tools, automated reporting systems, and industrial AI assistants
+- 🎓 PhD research: deep learning for brain disease detection using MR Angiography; publications spanning ML-based medical classification and blockchain-based health record systems
+- 👩‍🏫 Mentor & educator — deliver FDP sessions and webinars on AI/ML; lead internal Python training cohorts
+- 🌱 Deepening hands-on ML/MLOps fundamentals through structured personal projects
+- 🎭 Beyond tech: interested in Tamil culture and classical (Carnatic) arts
+
