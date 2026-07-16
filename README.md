@@ -3,7 +3,7 @@
 # Dr. S. R. Srividhya
 
 ### Senior IT Application Developer | Solutions & Digital Delivery @ KBR
-#### PhD in Deep Learning &nbsp;·&nbsp; ~9 Years in AI/ML &nbsp;·&nbsp; Generative AI Systems
+#### PhD in Deep Learning &nbsp;·&nbsp; ~9 Years in AI/ML &nbsp;·&nbsp; Generative AI 
 
 </div>
 
